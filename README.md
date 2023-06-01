@@ -1,6 +1,16 @@
 ### Hi there 👋
 ### I'm Java Engineer.
-
+### My Skill
+- Java Silver
+### I can use
+- PostgreSQL
+- Spring Data JPA
+- Google Platform
+  - App Engine
+  - Cloud SQL
+- Github Actions
+### My career
+Nothing
 <!--
 **CouldU5SaNa/CouldU5SaNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
