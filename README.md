@@ -15,6 +15,11 @@
   - App Engine
   - Cloud SQL
 - Github Actions
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,gcp,git,github,githubactions,hibernate,java,md,postgres,spring)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CouldU5SaNa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CouldU5SaNa)](https://github.com/anuraghazra/github-readme-stats)
 ### My career
 Nothing
 <!--
