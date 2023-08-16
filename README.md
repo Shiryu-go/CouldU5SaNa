@@ -2,6 +2,7 @@
 ### I'm Java Engineer.
 ### My Skill
 - Java Silver
+- 基本情報技術者試験
 ### I can use
 - PostgreSQL
 - Java
