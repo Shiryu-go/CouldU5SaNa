@@ -16,6 +16,9 @@
   - App Engine
   - Cloud SQL
 - Github Actions
+- JavaScript
+- HTML
+- CSS
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,figma,gcp,git,github,githubactions,hibernate,java,md,postgres,spring)](https://skillicons.dev)
 
